@@ -1,6 +1,13 @@
 # flutter_app
 
-A new Flutter project.
+A new Flutter project, in this project i've created a splash screen when apps open.
+
+## What I learned creating a splash screen in Flutter:
+
+Switch over Stateless or Statefull widgets;
+Edit pubspec.yml dependencies;
+Imported pub.dev packages;
+
 
 ## Getting Started
 

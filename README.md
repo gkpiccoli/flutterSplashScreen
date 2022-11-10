@@ -11,6 +11,7 @@ A new Flutter project, in this project i've created a splash screen when apps op
 - Switch over Stateless or Statefull widgets;
 - Edit pubspec.yml dependencies;
 - Imported pub.dev packages;
+- Insert a animated gif on readme;
 
 ## Getting Started
 

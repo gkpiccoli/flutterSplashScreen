@@ -1,7 +1,8 @@
 # flutter_app
 
 ## Preview
-    ![](https://github.com/gkpiccoli/flutterSplashScreen/blob/main/appteste.gif)
+
+![](https://github.com/gkpiccoli/flutterSplashScreen/blob/main/appteste.gif)
 
 A new Flutter project, in this project i've created a splash screen when apps open.
 

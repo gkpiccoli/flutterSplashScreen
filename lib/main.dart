@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         splashTransition: SplashTransition.fadeTransition,
         backgroundColor: Colors.blue,
         nextScreen: const MyHomePage(
-          title: 'Splash Screen in a Flutter App',
+          title: 'Splash Screen',
         ),
       ),
     );

@@ -2,16 +2,18 @@
 
 ## Preview
 
-![](https://github.com/gkpiccoli/flutterSplashScreen/blob/main/appteste.gif)
+Using Flutter was created a splash screen when apps start.
 
-A new Flutter project, in this project i've created a splash screen when apps open.
+![Example](https://github.com/gkpiccoli/flutterSplashScreen/blob/main/appteste.gif)
+
 
 ## What I learned creating a splash screen in Flutter:
 
 - Switch over Stateless or Statefull widgets;
 - Edit pubspec.yml dependencies;
 - Imported pub.dev packages;
-- Insert a animated gif on readme;
+- Create a animated gif on Linux;
+- Insert a animated gif on README.md;
 
 ## Getting Started
 

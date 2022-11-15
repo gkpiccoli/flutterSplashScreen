@@ -18,11 +18,11 @@ class MyApp extends StatelessWidget {
       ),
       home: AnimatedSplashScreen(
         splash: Icons.cached_rounded,
-        duration: 3000,
+        duration: 4000,
         splashTransition: SplashTransition.fadeTransition,
         backgroundColor: Colors.blue,
         nextScreen: const MyHomePage(
-          title: 'Splash Screen',
+          title: 'Splash Screen Flutter',
         ),
       ),
     );
